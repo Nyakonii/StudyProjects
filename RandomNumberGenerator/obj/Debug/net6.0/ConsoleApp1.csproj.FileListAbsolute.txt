@@ -1,0 +1,15 @@
+/home/nyako/RiderProjects/ConsoleApp/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1
+/home/nyako/RiderProjects/ConsoleApp/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.deps.json
+/home/nyako/RiderProjects/ConsoleApp/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.runtimeconfig.json
+/home/nyako/RiderProjects/ConsoleApp/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.dll
+/home/nyako/RiderProjects/ConsoleApp/ConsoleApp1/bin/Debug/net6.0/ref/ConsoleApp1.dll
+/home/nyako/RiderProjects/ConsoleApp/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.pdb
+/home/nyako/RiderProjects/ConsoleApp/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.AssemblyReference.cache
+/home/nyako/RiderProjects/ConsoleApp/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/nyako/RiderProjects/ConsoleApp/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/nyako/RiderProjects/ConsoleApp/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfo.cs
+/home/nyako/RiderProjects/ConsoleApp/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/nyako/RiderProjects/ConsoleApp/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.dll
+/home/nyako/RiderProjects/ConsoleApp/ConsoleApp1/obj/Debug/net6.0/ref/ConsoleApp1.dll
+/home/nyako/RiderProjects/ConsoleApp/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.pdb
+/home/nyako/RiderProjects/ConsoleApp/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BAPKKHa4OjoEwO6mxfGyy+LXalTu6EZqeW4uMp1+Duu9s5NyU/vEuyvrztdIc13H94NTPkEN5RDY4PPtrz2rHA==",
+  "success": true,
+  "projectFilePath": "/home/nyako/RiderProjects/ConsoleApp/ConsoleApp/ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/home/nyako/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
