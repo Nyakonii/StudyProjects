@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lhRzVnDzIqaDNI9pKKofwcf8f/K5/9MFvqCozJFbSg9zMh3xJCK5UR4s+Yx7e7zqCr6ANnkb/3FHOhWhTrawZg==",
+  "dgSpecHash": "jMtzhCEephsIDF8sQJ/Nj+R0C5VfAFgtlgd/e/xq9MYND/pfAuUyXV/nBu7beMIBcz0YM9DPg280i/bMft2ORA==",
   "success": true,
-  "projectFilePath": "/home/nyako/RiderProjects/ConsoleApp/RandomNumberGenerator/RandomNumberGenerator.csproj",
-  "expectedPackageFiles": [
-    "/home/nyako/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\cc1103087\\Documents\\CSharp\\StudyProjects\\RandomNumberGenerator\\RandomNumberGenerator.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

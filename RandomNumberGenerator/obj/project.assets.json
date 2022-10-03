@@ -8,24 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/nyako/.nuget/packages/": {}
+    "C:\\Users\\cc1103087\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nyako/RiderProjects/ConsoleApp/RandomNumberGenerator/RandomNumberGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\cc1103087\\Documents\\CSharp\\StudyProjects\\RandomNumberGenerator\\RandomNumberGenerator.csproj",
       "projectName": "RandomNumberGenerator",
-      "projectPath": "/home/nyako/RiderProjects/ConsoleApp/RandomNumberGenerator/RandomNumberGenerator.csproj",
-      "packagesPath": "/home/nyako/.nuget/packages/",
-      "outputPath": "/home/nyako/RiderProjects/ConsoleApp/RandomNumberGenerator/obj/",
+      "projectPath": "C:\\Users\\cc1103087\\Documents\\CSharp\\StudyProjects\\RandomNumberGenerator\\RandomNumberGenerator.csproj",
+      "packagesPath": "C:\\Users\\cc1103087\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cc1103087\\Documents\\CSharp\\StudyProjects\\RandomNumberGenerator\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/nyako/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\cc1103087\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -53,18 +60,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.9, 6.0.9]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.109/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -17,11 +17,11 @@ int rounds = 5;
 int LowerOut()
 {
     int valLowered = output;
-    int mod = DateTime.Now.Millisecond;
-    string modS = Convert.ToString(mod);
-    int remove = Convert.ToInt32(modS);
     while (valLowered > MAX)
     {
+        int mod = DateTime.Now.Millisecond;
+        string modS = Convert.ToString(mod);
+        int remove = Convert.ToInt32(modS);
         valLowered = valLowered - 2 * remove;
         Console.WriteLine($"Lowering to {valLowered} by {2 * remove}");
     }
@@ -32,11 +32,11 @@ int LowerOut()
 int RaiseOut()
 {
     int valRaised = output;
-    int mod = DateTime.Now.Millisecond;
-    var modS = Convert.ToString(mod);
-    int add = Convert.ToInt32(modS);
     while (valRaised < MAX)
     {
+        int mod = DateTime.Now.Millisecond;
+        var modS = Convert.ToString(mod);
+        int add = Convert.ToInt32(modS);
         valRaised = valRaised + 2 * add;
         Console.WriteLine($"Raising to {valRaised} by {2 * add}");
     }
