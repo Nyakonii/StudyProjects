@@ -1,0 +1,15 @@
+C:\Users\cc1103087\Documents\CSharp\StudyProjects\RandomNumberGenerator\bin\Debug\net6.0\RandomNumberGenerator.exe
+C:\Users\cc1103087\Documents\CSharp\StudyProjects\RandomNumberGenerator\bin\Debug\net6.0\RandomNumberGenerator.deps.json
+C:\Users\cc1103087\Documents\CSharp\StudyProjects\RandomNumberGenerator\bin\Debug\net6.0\RandomNumberGenerator.runtimeconfig.json
+C:\Users\cc1103087\Documents\CSharp\StudyProjects\RandomNumberGenerator\bin\Debug\net6.0\RandomNumberGenerator.dll
+C:\Users\cc1103087\Documents\CSharp\StudyProjects\RandomNumberGenerator\bin\Debug\net6.0\RandomNumberGenerator.pdb
+C:\Users\cc1103087\Documents\CSharp\StudyProjects\RandomNumberGenerator\obj\Debug\net6.0\RandomNumberGenerator.csproj.AssemblyReference.cache
+C:\Users\cc1103087\Documents\CSharp\StudyProjects\RandomNumberGenerator\obj\Debug\net6.0\RandomNumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cc1103087\Documents\CSharp\StudyProjects\RandomNumberGenerator\obj\Debug\net6.0\RandomNumberGenerator.AssemblyInfoInputs.cache
+C:\Users\cc1103087\Documents\CSharp\StudyProjects\RandomNumberGenerator\obj\Debug\net6.0\RandomNumberGenerator.AssemblyInfo.cs
+C:\Users\cc1103087\Documents\CSharp\StudyProjects\RandomNumberGenerator\obj\Debug\net6.0\RandomNumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\cc1103087\Documents\CSharp\StudyProjects\RandomNumberGenerator\obj\Debug\net6.0\RandomNumberGenerator.dll
+C:\Users\cc1103087\Documents\CSharp\StudyProjects\RandomNumberGenerator\obj\Debug\net6.0\refint\RandomNumberGenerator.dll
+C:\Users\cc1103087\Documents\CSharp\StudyProjects\RandomNumberGenerator\obj\Debug\net6.0\RandomNumberGenerator.pdb
+C:\Users\cc1103087\Documents\CSharp\StudyProjects\RandomNumberGenerator\obj\Debug\net6.0\RandomNumberGenerator.genruntimeconfig.cache
+C:\Users\cc1103087\Documents\CSharp\StudyProjects\RandomNumberGenerator\obj\Debug\net6.0\ref\RandomNumberGenerator.dll
