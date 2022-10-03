@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("Hello, World!");
-int randomizer = DateTime.Now.Second;
+//Console.WriteLine("Hello, World!");
+long randomizer = DateTime.Now.Second;
 
 Console.WriteLine("Insert Minimum");
 string? minS = Console.ReadLine();
@@ -11,33 +11,29 @@ string? maxS = Console.ReadLine();
 int MIN = Convert.ToInt32(minS);
 int MAX = Convert.ToInt32(maxS);
 
-int output = 1;
+long output = 1;
 int rounds = 5;
 
-int LowerOut()
+long LowerOut()
 {
-    int valLowered = output;
+    long valLowered = output;
     while (valLowered > MAX)
     {
-        int mod = DateTime.Now.Millisecond;
-        string modS = Convert.ToString(mod);
-        int remove = Convert.ToInt32(modS);
-        valLowered = valLowered - 2 * remove;
+        long remove = DateTime.Now.Second;
+        valLowered = valLowered / remove;
         Console.WriteLine($"Lowering to {valLowered} by {2 * remove}");
     }
     
     return valLowered;
 }
 
-int RaiseOut()
+long RaiseOut()
 {
-    int valRaised = output;
-    while (valRaised < MAX)
+    long valRaised = output;
+    while (valRaised < MIN)
     {
-        int mod = DateTime.Now.Millisecond;
-        var modS = Convert.ToString(mod);
-        int add = Convert.ToInt32(modS);
-        valRaised = valRaised + 2 * add;
+        long add = DateTime.Now.Second;
+        valRaised = valRaised * add;
         Console.WriteLine($"Raising to {valRaised} by {2 * add}");
     }
     return valRaised;

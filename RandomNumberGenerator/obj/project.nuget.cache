@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jMtzhCEephsIDF8sQJ/Nj+R0C5VfAFgtlgd/e/xq9MYND/pfAuUyXV/nBu7beMIBcz0YM9DPg280i/bMft2ORA==",
+  "dgSpecHash": "ePQMElKMOSxTOtrkx3sjVRBgM0jb+pxW+5k7GVRjvajMQkhywUc/8v6MJOhb69xyiCE3HW4xY5T5AT0Mt6Bvsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cc1103087\\Documents\\CSharp\\StudyProjects\\RandomNumberGenerator\\RandomNumberGenerator.csproj",
+  "projectFilePath": "C:\\Users\\cc1103087\\Source\\Repos\\StudyProjects\\RandomNumberGenerator\\RandomNumberGenerator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
